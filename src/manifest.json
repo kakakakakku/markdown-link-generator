@@ -1,0 +1,17 @@
+{
+  "name": "qiita-team-link-generator",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Qiita:Team 用のリンクを作成する",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "tabs",
+    "contextMenus",
+    "clipboardWrite"
+  ],
+  "icons": {
+    "48": "./icon48.png"
+  }
+}
