@@ -1,2 +1,2 @@
-qiita-team-link-generator
+markdown-link-generator
 =========================
