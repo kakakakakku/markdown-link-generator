@@ -1,8 +1,8 @@
 {
-  "name": "qiita-team-link-generator",
+  "name": "markdown-link-generator",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "Qiita:Team 用のリンクを作成する",
+  "description": "Markdown 用のリンクを作成する",
   "background": {
     "scripts": ["background.js"]
   },
